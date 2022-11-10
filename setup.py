@@ -31,7 +31,7 @@ ext_modules = [
 ]
 
 setuptools.setup(
-    name='websockets',
+    name='dctr_websockets',
     version=version,
     description=description,
     long_description=long_description,
